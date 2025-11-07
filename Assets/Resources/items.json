@@ -1,0 +1,156 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Wanderer's Old Shoes",
+      "effects": [
+        {
+          "effect": "moveSpeedPercent",
+          "value": 0.2
+        }
+      ],
+      "description": "Increase move speed by 10%"
+    },
+    {
+      "id": 2,
+      "name": "Magician's Eye",
+      "effects": [
+        {
+          "effect": "cameraViewPercent",
+          "value": 0.1
+        }
+      ],
+      "description": "Increase camera view by 10%"
+    },
+    {
+      "id": 3,
+      "name": "Fool’s Eye",
+      "effects": [
+        {
+          "effect": "cameraViewPercent",
+          "value": -0.1
+        }
+      ],
+      "description": "Reduce camera view by 20%"
+    },
+    {
+      "id": 4,
+      "name": "Slippery Gel",
+      "specialEffect": "SpeedUpWhileDashing",
+      "description": "Dash speed increases while dashing in same direction"
+    },
+    {
+      "id": 5,
+      "name": "Soul Absorber",
+      "specialEffect": "EnergyOnKill",
+      "description": "Restore energy when killing an enemy"
+    },
+    {
+      "id": 6,
+      "name": "Blood Nitropump",
+      "specialEffect": "NoEnergyUseHPToDash",
+      "description": "Use HP to dash when energy is empty"
+    },
+    {
+      "id": 7,
+      "name": "Cain’s Fate",
+      "specialEffect": "DashHeal",
+      "description": "Dashing heals you; lose HP if idle or hitting walls"
+    },
+    {
+      "id": 8,
+      "name": "Limit Amplifier",
+      "effects": [
+        {
+          "effect": "offscreenDamageBonus",
+          "value": 0.2
+        }
+      ],
+      "description": "Deal more damage to off-screen enemies"
+    },
+    {
+      "id": 9,
+      "name": "Magma Trail",
+      "specialEffect": "BurnTrail",
+      "description": "Leave fire trail while moving"
+    },
+    {
+      "id": 10,
+      "name": "Thorn Pain",
+      "specialEffect": "AutoSpike",
+      "description": "Periodically emit damaging spikes around you"
+    },
+    {
+      "id": 11,
+      "name": "Bloodied Gladiator Helm",
+      "specialEffect": "DashArmorAndDamage",
+      "description": "Dash deals damage and reduces damage taken"
+    },
+    {
+      "id": 12,
+      "name": "One’s Own Eye",
+      "effects": [
+        {
+          "effect": "cameraViewPercent",
+          "value": -0.5
+        }
+      ],
+      "specialEffect": "DodgeChance",
+      "description": "Lower view, chance to ignore damage"
+    },
+    {
+      "id": 13,
+      "name": "Gladiator's Head",
+      "specialEffect": "DestroyWallOnDash",
+      "description": "Can break walls at high speed; Corpse Part+1"
+    },
+    {
+      "id": 14,
+      "name": "Rightless Left Foot",
+      "specialEffect": "FlipControl",
+      "description": "Reversed control if missing right foot; Corpse Part+1"
+    },
+    {
+      "id": 15,
+      "name": "Leftless Right Foot",
+      "specialEffect": "FlipControl",
+      "description": "Reversed control if missing left foot; Corpse Part+1"
+    },
+    {
+      "id": 16,
+      "name": "Holey Coin Purse",
+      "specialEffect": "CoinDropOnDash",
+      "description": "Drop coins while dashing; find more coins"
+    },
+    {
+      "id": 17,
+      "name": "Respiro",
+      "effects": [
+        {
+          "effect": "energyRegen",
+          "value": 0.1
+        }
+      ],
+      "specialEffect": "EnergyRegen",
+      "description": "Slowly regenerate energy over time"
+    },
+    {
+      "id": 18,
+      "name": "Syrup",
+      "specialEffect": "RefillEnergy",
+      "description": "Instantly refill energy when empty; recharges over time"
+    },
+    {
+      "id": 19,
+      "name": "Mysterious Amulet",
+      "specialEffect": "DeathImmunity",
+      "description": "Survive fatal damage once; become briefly invincible"
+    },
+    {
+      "id": 20,
+      "name": "Bull Warrior Mask",
+      "specialEffect": "EnemyKnockback",
+      "description": "Short dashes knock enemies back; +1 Corpse Part"
+    }
+  ]
+}

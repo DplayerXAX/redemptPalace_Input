@@ -1,0 +1,13 @@
+GroupID	LineID	Speaker	Text	Condition	Next	
+npc_Douma_unseen	1	Reybart	What the hell is this place? Where am I...?	TRUE		
+npc_Douma_unseen	2	Douma	Welcome, my dear guest. I’ve waited centuries for this moment.	TRUE		
+npc_Douma_unseen	3	Reybart	...! What’s happening? Am I dreaming?	TRUE		
+npc_Douma_unseen	4	Douma	Dreams? Don't you remember?We made a deal.	TRUE		
+npc_Douma_unseen	5	Douma	You vowed to return to me after death. And now, here you are... 	TRUE		
+npc_Douma_unseen	6	Douma	.....for eternity.	TRUE		
+npc_Douma_unseen	7	Reybart	What?! You’ve got to be joking!	TRUE		
+npc_Douma_unseen	8	Douma	Ah, Love that look. Very well, I’ll leave you to your panic.Let silence greet your arrival.	TRUE	END				
+npc_Mammon_unseen	1	Mammon	A new face… Another sufferer trying to escape.	TRUE		
+npc_Mammon_unseen	2	Mammon	Well, I might have something for you. But don’t expect charity.	TRUE	END					
+npc_Mammon_1	1	Mammon	Trying to escape again, huh? Where did you toss my property last time?	TRUE	END
+npc_Mammon_1	3	Reybart	I thought you'd be glad to have paying customers.	TRUE	END	
