@@ -26,8 +26,8 @@ We'll talk about this in class
 
 | Part                   | Description |
 |------------------------|-------------|
-| **Main Play Scene**   | Player infinitely runs on a random generated map + can dash with space. Player interacts with NPC ¡ú start dialogue (this part we¡¯ll implement in class). |
-| **Map Editor Scene**  | Player draws own custom map ¡ú can save to computer ¡ú can load saved map back into the game. |
+| **Main Play Scene**   | Player infinitely runs on a random generated map and can dash with space. Player interacts with NPC ¡ú start dialogue (this part we¡¯ll implement in class). |
+| **Map Editor Scene**  | Player draws own custom map,then can save to computer,then can load saved map back into the game. |
 
 ---
 
@@ -48,7 +48,7 @@ We'll talk about this in class
 - Path handling & cross platform concerns
 - How to read / write files
 - Basic data structures for storing text (Dictionary / Lists)
-- Parsing (string ¡ú usable game objects)
+- Parsing (string to usable game objects)
 
 ---
 
