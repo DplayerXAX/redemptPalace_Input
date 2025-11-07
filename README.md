@@ -2,7 +2,7 @@
 
 This is a demo project prepared for Intermediate Game Development to teach **Unity Input/Output system**.
 
-This game is *NOT* a finished project ¡ª some gameplay systems and codes are intentionally simplified or removed.  
+This game is *NOT* a finished project. This means some gameplay systems and codes are intentionally simplified or removed.  
 The focus of this lesson is solely on **data I/O**, not the complete narrative system or full gameplay.
 
 > Think like you are on a team, and you are assigned ONLY the job to handle **data reading / writing**.
@@ -67,5 +67,5 @@ By the end of this lesson, you will know how to:
 
 ## Attribution / Credits
 
-This demo project is originated based on a game idea made by **[Castpixel](https://x.com/castpixel)** ¡ª a downloadable unity tutorial about creating a 2D isometric map.
+This demo project is originated based on a game idea made by **[Castpixel](https://x.com/castpixel)**,which is a downloadable unity tutorial about creating a 2D isometric map.
 
